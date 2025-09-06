@@ -24,7 +24,7 @@ fizzBuzz(18);
 fizzBuzz(33);
 // prints
 //  3
-//  5
+//  5 
 //  6
 //  9
 //  10
